@@ -1,0 +1,12 @@
+{
+    "input_dim": 96,
+    "clip_limit": 10.0,
+    "threshold": 0.00029684744426049584,
+    "best_epoch": 42,
+    "best_validation_loss": 1.8423166693537496e-05,
+    "preprocessing": [
+        "signed_log_transform",
+        "RobustScaler(quantile_range=(10, 90))",
+        "clip to [-10, 10]"
+    ]
+}

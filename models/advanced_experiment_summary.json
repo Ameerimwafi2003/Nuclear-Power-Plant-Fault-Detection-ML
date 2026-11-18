@@ -1,0 +1,8 @@
+{
+    "random_forest_validation_balanced_accuracy": 0.7216374558240335,
+    "xgboost_validation_balanced_accuracy": 0.9467213114754098,
+    "autoencoder_validation_balanced_accuracy": 1.0,
+    "random_forest_test_balanced_accuracy": 0.898793198025233,
+    "xgboost_test_balanced_accuracy": 1.0,
+    "autoencoder_test_balanced_accuracy": 1.0
+}
