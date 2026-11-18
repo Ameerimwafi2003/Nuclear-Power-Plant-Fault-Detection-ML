@@ -1,0 +1,5 @@
+Scenario_ID,Scenario,Records,RF_Accuracy,XGB_Accuracy,AE_Accuracy
+0,00 - Normal Operation,122.0,1.0,1.0,1.0
+1,01 - Loss of Coolant Accident (Hot Leg),605.0,0.9950413223140496,1.0,1.0
+2,02 - Loss of Coolant Accident (Cold Leg),602.0,0.9983388704318937,1.0,1.0
+16,16 - Containment Failure or Spark for H2 Detonation,616.0,0.4074675324675325,1.0,1.0

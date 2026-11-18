@@ -1,0 +1,5 @@
+Scenario_ID,Scenario,Records,Correct,Accuracy
+0,00 - Normal Operation,122.0,109.0,0.8934426229508197
+7,07 - Loss of Flow (Locked Rotor),607.0,607.0,1.0
+18,18 - Fuel Handling Accident in Containment,607.0,607.0,1.0
+19,19 - Fuel Handling Accident in Auxiliary Building,609.0,609.0,1.0

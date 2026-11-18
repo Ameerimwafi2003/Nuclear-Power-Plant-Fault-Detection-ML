@@ -1,0 +1,4 @@
+Model,Validation_Balanced_Accuracy,Test_Balanced_Accuracy,Strength,Limitation
+Random Forest,0.7216374558240335,0.898793198025233,Simple baseline and interpretable model,Misses some unseen fault types
+XGBoost,0.9467213114754098,1.0,Strong performance on unseen fault scenarios,Requires further independent validation
+Autoencoder,1.0,1.0,Learns normal-operation reconstruction patterns,Sensitive to specific sensors and preprocessing

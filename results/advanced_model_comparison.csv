@@ -1,0 +1,5 @@
+Model,Validation_Balanced_Accuracy
+Random Forest,0.7216374558240335
+XGBoost,0.9467213114754098
+Autoencoder,1.0
+Autoencoder (91-sensor score),0.6681294569391114
